@@ -1,2 +1,2 @@
-requests
-yaml
+requests==2.32.3
+yaml==6.0.1
